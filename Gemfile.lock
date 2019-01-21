@@ -24,11 +24,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  faraday-cookie_jar (>= 0.0.6)
-  faraday_middleware (>= 0.12.2)
-  msgpack (>= 1.2.6)
-  rainbow (>= 3.0.0)
-  ruby-progressbar (>= 1.10.0)
+  faraday-cookie_jar
+  faraday_middleware
+  msgpack
+  rainbow
+  ruby-progressbar
 
 BUNDLED WITH
-   1.17.1
+   1.17.3
