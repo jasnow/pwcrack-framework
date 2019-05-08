@@ -13,7 +13,7 @@ GEM
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     msgpack (1.2.10)
-    multipart-post (2.0.0)
+    multipart-post (2.1.0)
     rainbow (3.0.0)
     ruby-progressbar (1.10.0)
     unf (0.1.4)
