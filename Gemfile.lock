@@ -15,7 +15,7 @@ GEM
     msgpack (1.2.10)
     multipart-post (2.1.1)
     rainbow (3.0.0)
-    ruby-progressbar (1.10.0)
+    ruby-progressbar (1.10.1)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.6)
