@@ -4,7 +4,7 @@ pwcrack-framework 是一个用Ruby编写的密码自动破解框架，目前提�
 项目地址：[https://github.com/L-codes/pwcrack-framework](https://github.com/L-codes/pwcrack-framework)
 
 # 0x01 Features
-- Ruby2.5+ (tested with Ruby2.5.3 & Ruby 2.6.0 & Ruby 2.7.0-preview1)
+- Ruby2.5+ (tested with Ruby2.5.3 & Ruby 2.6.0 & Ruby 2.7.0-preview3)
 - 支持Linux/OSX/Windows平台运行
 - 支持在线和离线的进行破解密码明文
 - 支持自动分析密文算法调用插件破解
