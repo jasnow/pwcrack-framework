@@ -2,6 +2,6 @@ language: ruby
 rvm:
   - 2.5.7
   - 2.6.5
-  - 2.7.0-rc2
+  - 2.7.0
 before_install: gem install bundler
 cache: bundler
