@@ -10,7 +10,7 @@ GEM
     faraday-cookie_jar (0.0.7)
       faraday (>= 0.8.0)
       http-cookie (~> 1.0.0)
-    faraday-net_http (1.0.0)
+    faraday-net_http (1.0.1)
     faraday_middleware (1.0.0)
       faraday (~> 1.0)
     http-cookie (1.0.3)
@@ -36,4 +36,4 @@ DEPENDENCIES
   ruby-progressbar
 
 BUNDLED WITH
-   2.2.4
+   2.2.5
